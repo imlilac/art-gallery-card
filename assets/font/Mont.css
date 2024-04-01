@@ -1,0 +1,51 @@
+/* font */
+@font-face {
+   font-family: "Mont";
+   font-style: normal;
+   font-weight: 200;
+   src: url("MontFont/Lovelace-ExtraLight.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: "Mont";
+   font-style: normal;
+   font-weight: 300;
+   src: url("MontFont/Lovelace-Light.woff2") format("woff2");
+}
+@font-face {
+   font-family: "Mont";
+   font-style: normal;
+   font-weight: 500;
+   src: url("MontFont/Lovelace-Medium.woff2") format("woff2");
+}
+@font-face {
+   font-family: "Mont";
+   font-style: normal;
+   font-weight: 700;
+   src: url("MontFont/Lovelace-Bold.woff2") format("woff2");
+}
+@font-face {
+   font-family: "Mont";
+   font-style: normal;
+   font-weight: 800;
+   src: url("MontFont/Lovelace-ExtraBold.woff2") format("woff2");
+}
+@font-face {
+   font-family: "Mont";
+   font-style: italic;
+   font-weight: 900;
+   src: url("MontFont/Lovelace-BoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: "Mont";
+   font-style: italic;
+   font-weight: bold;
+   src: url("MontFont/Lovelace-ExtraBoldItalic.woff2") format("woff2");
+}
+@font-face {
+   font-family: "Mont";
+   font-style: normal;
+   font-weight: normal;
+   src: url("MontFont/Lovelace-Regular.woff2") format("woff2");
+}
