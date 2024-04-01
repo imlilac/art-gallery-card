@@ -1,6 +1,6 @@
-# Instagram Post
+# Arg Gallery Card
 
-![logo](https://github.com/imlilac/instagram-card/blob/main/img/banner.jpg)
+![logo](https://github.com/imlilac/art-gallery-card/blob/main/assets/img/banner.jpg)
 
 Designing a simple art gallery card using HTML5 & CSS.
 
@@ -29,4 +29,4 @@ Users should be able to:
 
 ## Author
 
--  Github - [ililac](https://github.com/ililac)
+-  Github - [imlilac](https://github.com/imlilac)
