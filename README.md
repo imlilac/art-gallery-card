@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/imlilac/instagram-card/blob/main/img/banner.jpg)
 
-Designing a simple instagram card using HTML5 & CSS.
+Designing a simple art gallery card using HTML5 & CSS.
 
 ## Table of contents
 
