@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/imlilac/instagram-card/blob/main/img/screen-1.png)
+![](https://github.com/imlilac/art-gallery-card/blob/main/assets/img/art-gallery.png)
 
 ## My process
 
